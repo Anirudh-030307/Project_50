@@ -1,0 +1,21 @@
+h1{
+    color:blue
+}
+p{
+    color: rgb(253, 2, 2);
+}
+ol{
+    color: fuchsia;
+}
+ul{
+   color: blue;
+}
+.design{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+}
+*{
+    background-color: gold;
+}
